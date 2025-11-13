@@ -66,10 +66,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 <hr>
-  📬 Connect with Me
 
+<h3 align="left">📬 Connect with Me :</h3>
 
 <p>
+  <br>
   <a href="https://www.linkedin.com/in/tarek-jamil-adnan-08a446342/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
