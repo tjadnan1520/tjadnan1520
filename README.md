@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tarek Jamil Adnan</h1>
+<h1 align="left">Hi 👋, I'm Tarek Jamil Adnan</h1>
 - 📫 Reach me **bsse1520@iit.du.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
