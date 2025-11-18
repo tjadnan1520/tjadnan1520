@@ -3,9 +3,6 @@
 🌱 I’m currently learning <b>Full-Stack Development</b><br>
 📫 Reach me: <a href="mailto:bsse1520@iit.du.ac.bd">bsse1520@iit.du.ac.bd</a>
 
-
-
-
 ---
 
 <h3 align="left">🧠 Tech Stack:</h3>
@@ -65,10 +62,11 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
+</p>
+
 <hr>
 
 <h3 align="left">📬 Connect with Me :</h3>
-
 <p>
   <br>
   <a href="https://www.linkedin.com/in/tarek-jamil-adnan-08a446342/" target="_blank">
@@ -79,7 +77,15 @@
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-<hr>
-⭐️ From : <a href="https://github.com/tjadnan1520" target="_blank"> Tarek Jamil Adnan</a>
 
+---
+
+### 🧩 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tjadnan1520&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjadnan1520&layout=compact&theme=radical" height="160"/>
 </p>
+
+---
+
+⭐️ From : <a href="https://github.com/tjadnan1520" target="_blank">Tarek Jamil Adnan</a>
