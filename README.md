@@ -80,12 +80,4 @@
 
 ---
 
-### 🧩 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tjadnan1520&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjadnan1520&layout=compact&theme=radical" height="160"/>
-</p>
-
----
-
 ⭐️ From : <a href="https://github.com/tjadnan1520" target="_blank">Tarek Jamil Adnan</a>
